@@ -7,7 +7,7 @@ Tensor network simulations were used for the following plots in the supplemental
 Correspondingly, four files in this repository are spreadsheets containing the numerical values appearing in these plots.
 
 There are also three python codes in this repository:
-1) "rydberg_on_ruby.py": creates the model file for Rydberg atoms placed on links of kagome lattice (i.e., ruby lattice with rho=sqrt(3))
+1) "rydberg_on_ruby.py": creates the model file for Rydberg atoms placed on links of kagome lattice (i.e., ruby lattice with rho=sqrt(3); see arxiv:2011.12310 for the definition of the ruby lattice)
 2) "get_gs.py": obtains the ground state for the aforementioned model using DMRG, and various physical quantities are calculated
 3) "dynamic_state_prep_on_ruby_lattice.py": time-evolves with a time-dependent Rydberg Hamiltonian, mimicking experimental state-preparation
 
