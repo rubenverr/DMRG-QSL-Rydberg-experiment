@@ -1,6 +1,8 @@
 # DMRG-QSL-Rydberg-experiment
 Static and dynamic DMRG results reported in arxiv:2104.04119 and the codes used to obtain them.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5553679.svg)](http://dx.doi.org/10.5281/zenodo.5553679)
+
 ###################################
 
 Tensor network simulations were used for the following plots in the supplemental material of the aforementioned paper: Figures S13, S14, S16, S17.
